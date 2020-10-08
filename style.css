@@ -6,38 +6,61 @@
 
 .mainbody{
     background-image: url(e.jpg);
+    width: 800px;
+    margin: auto;
+    padding: 1%;
+    margin-top: 20px;
+    
     
 }
 
 .header{
-
+    margin-bottom: 20%;
+    
 }
 
 .upper{
     display: flex;
     border: 1px solid black;
-    padding: 10px;
+    padding: 15px;
     border: 10px;
-    margin: 20px;
+    margin: 5px;
     background-color: rgb(235, 232, 232);
 }
 
+.logo{
+    margin-left: 2%;
+}
+
+.navbar{
+    margin-left: 10%;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: blue;
+
+}
 .navbar ul{
     display: inline;
     list-style: none;
+    
 }
 
 .navbar li{
     display: inline;
-}{
-
+    padding: 15px;
+    
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
 }
 
 .main{
     display: flex;
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 200px;
+    
+   
     
 }
 
@@ -52,10 +75,31 @@
     background-color: white;
 }
 
+.bold{
+    color: blue;
+}
+
+.image{
+    text-align: center;
+
+}
+
 .footer{
     margin-top: 200px;
 }
-.icons li{
+.iconsul li{
     display: inline;
-    
+    margin: auto;
+}
+
+.iconsul{
+    margin-left: 40%;
+}
+
+.copyright{
+    color: white;
+    border: 1px solid gray;
+    margin-right: 54%;
+    background-color: gray;
+    margin-top: 2%;
 }
