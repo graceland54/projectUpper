@@ -2,7 +2,7 @@
 # Description
 This project is designed for web development INFO. You can navigate through the navbar for more interesting informations.
 # Motion Template Image
-![This is an alt text](/demo.PNG "This is a sample image")
+![This is an alt text](./assets/images/demo.PNG "This is a sample image")
 ## Link
 https://github.com/graceland54/projectUpper.git
 ## Build with
