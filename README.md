@@ -4,8 +4,12 @@ This project is designed for web development INFO. You can navigate through the 
 ## Build with
 HTML 
 CSS
+# Motion Template Image
+![This is an alt text](/demo.PNG "This is a sample image")
+# Link
+
 # Live Demo
-This is a live demo
+This is a live demo (htttps://)
 # Author
 Eric Yohanna
 Grace Mba
@@ -13,10 +17,10 @@ Grace Mba
 @Emshelmbula
 @Gracemba
 # Acknowlegedment
-github:@Gnwin
-github:@Chioma
-github:@hub_mic
-github:@homefrontstartup
+* github:@Gnwin
+* github:@Chioma
+* github:@hub_mic
+* github:@homefrontstartup
 ## Support
 You can always get support by contacting us through our social media handles
 
